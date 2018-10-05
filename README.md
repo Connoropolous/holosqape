@@ -32,6 +32,7 @@ Now either open and build holosqape.pro with [Qt Creator](https://en.wikipedia.o
 ```
 qmake
 make
+say wahtat 
 ```
 
 ![](images/screenshots/mainwindow.png)
